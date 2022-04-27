@@ -1,0 +1,7 @@
+a = open("C:\\Python progs\\zalupa.txt", 'w+')
+a.close()
+b = open('./penis.txt', 'w+')
+b.close()
+c = open('hui.txt', 'w+')
+c.close()
+print('Successful')

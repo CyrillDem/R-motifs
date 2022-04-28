@@ -2,8 +2,6 @@ import regex
 import re
 
 
-string = "NNASNDNA"
-
 
 def find_complex_motifs(string):
     complex_pattern = r"(R([A-Z]{0,2}R){2,})"
